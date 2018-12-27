@@ -68,20 +68,7 @@ root=Tk()
 Fenetre1=Fenetre(root)
 
 
-print (a)
-b=str(a)
-print(b)
 
-print(b[8]+b[9])
-
-"""if b[8]+b[9]=="27":
-    server=smtplib.SMTP('smtp.gmail.com',587)
-    server.starttls()
-    server.login("eliekazan229@gmail.com","collegepassword")
-    server.sendmail("eliekazan229@gmail.com","eliekazan228@gmail.com","we are 27")
-    server.quit()"""
-
-print(c_2)
 
 
         
